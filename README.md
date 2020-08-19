@@ -86,9 +86,9 @@
 
 
 ## Github Stats  
-<div>
+<div style='justify-content:space-between;display:flex;flex-direction' >
 <img src="https://github-readme-stats.vercel.app/api?username=routayush1&show_icons=true&count_private=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=routayush1" align="center" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=routayush1&layout=compact" align="center" />  
 </div>
 <br/>  
 
