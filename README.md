@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **routayush1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ayushrout/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC801P4Bs3jFCaOtGvyMI4IP-Y3X6Xhsp-o,1609590602834)/](https://www.linkedin.com/in/ayushrout/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC801P4Bs3jFCaOtGvyMI4IP-Y3X6Xhsp-o,1609590602834)/)
+- 📄 Know about my experiences [MY CV](https://www.linkedin.com/in/ayushrout/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC801P4Bs3jFCaOtGvyMI4IP-Y3X6Xhsp-o,1609590602834)/)
 
 - ⚡ Fun fact : **I am a passionate 🎮 gamer and 👨‍💻 tech geek too**
 
