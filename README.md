@@ -34,6 +34,6 @@
 <div >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=routayush1&show_icons=true&locale=en&layout=compact" alt="routayush1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=routayush1&show_icons=true&locale=en" alt="routayush1" /></p>
+<p>&nbsp;<img width="365" align="center" src="https://github-readme-stats.vercel.app/api?username=routayush1&show_icons=true&locale=en" alt="routayush1" /></p>
 
 </div>
